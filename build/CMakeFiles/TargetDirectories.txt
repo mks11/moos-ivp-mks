@@ -1,0 +1,2 @@
+/home/ruser/moos-ivp-mks/build/src/pTurtleRemote/CMakeFiles/pTurtleRemote.dir
+/home/ruser/moos-ivp-mks/build/src/pTurtlebot/CMakeFiles/pTurtlebot.dir

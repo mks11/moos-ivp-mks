@@ -1,0 +1,11 @@
+//------------------------------------------------------------------
+// pTurtleRemote configuration block
+
+ProcessConfig = pTurtleRemote
+{
+   AppTick   = 5
+   CommsTick = 5
+
+//   CustomKey = 1 : HELM_VERBOSE @ "verbose"
+  
+}

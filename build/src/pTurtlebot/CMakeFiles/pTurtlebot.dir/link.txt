@@ -1,0 +1,1 @@
+/usr/bin/c++    -fPIC -g    CMakeFiles/pTurtlebot.dir/Turtlebot.cpp.o CMakeFiles/pTurtlebot.dir/Turtlebot_Info.cpp.o CMakeFiles/pTurtlebot.dir/create_robot.cpp.o CMakeFiles/pTurtlebot.dir/main.cpp.o  -o ../../../bin/pTurtlebot -rdynamic -L/home/ruser/moos-ivp/lib /home/ruser/moos-ivp/MOOS/MOOSCore/lib/libMOOS.a -lmbutil -lm -lpthread -Wl,-rpath,/home/ruser/moos-ivp/lib 

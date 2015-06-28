@@ -1,0 +1,1 @@
+/usr/bin/c++    -fPIC -g    CMakeFiles/pTurtleRemote.dir/MOOSTurtleRemote.cpp.o CMakeFiles/pTurtleRemote.dir/pTurtleRemoteMain.cpp.o  -o ../../../bin/pTurtleRemote -rdynamic -L/home/ruser/moos-ivp/lib /home/ruser/moos-ivp/MOOS/MOOSCore/lib/libMOOS.a -lpthread -lm -Wl,-rpath,/home/ruser/moos-ivp/lib: 

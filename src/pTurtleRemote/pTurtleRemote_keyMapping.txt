@@ -1,0 +1,34 @@
+
+key mapping
+
+"START"             
+"PASSIVE"	    P
+"INIT_SAFE"	    I
+"INIT_FULL"	    F
+
+
+"DRIVE vel radius" : requires two integer  
+-- velocity                               
+-- radius 
+
+"DRIVE_DIRECT 0	0"	    
+--right wheel 		    m	    
+--left wheel 		    n
+
+"STRAIGHT 0"  		    d	
+-- velocity
+
+
+
+"BACKWARDS 0"		B	
+--velocity 
+
+
+"CW 1"	   		C	
+--velocity
+
+"CCW 1"			V
+--velocity
+
+"STOP"			x
+
